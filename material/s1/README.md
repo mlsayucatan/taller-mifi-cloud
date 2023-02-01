@@ -7,7 +7,7 @@
  Material | Descripción
 --- | ---
 **Presentación** | [Diapositivas Sesión 1]()
-**Práctica** | [Práctica 1. GitHub Student Developer Pack & Cuenta en Azure](/practica1.md)
+**Práctica** | [Práctica 1. GitHub Student Developer Pack & Cuenta en Azure](../practica1.md)
 
 ## Referencias
 
