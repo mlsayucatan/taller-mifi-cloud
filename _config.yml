@@ -1,1 +1,4 @@
-theme: minimal
+title: Taller de manejo de herramientas en la nube
+description: Material de apoyo para el taller 
+show_downloads: true
+theme: jekyll-theme-slate
