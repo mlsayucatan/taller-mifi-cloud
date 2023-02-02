@@ -6,8 +6,8 @@
 
  Material | Descripción
 --- | ---
-**Presentación** | [Diapositivas Sesión 1]()
-**Práctica** | [Práctica 1. GitHub Student Developer Pack & Cuenta en Azure](../s1/practica1.md)
+**Presentación** | [Diapositivas Sesión 1](material/s1/1-Conceptos-de-la-nube.pdf)
+**Práctica** | [Práctica 1. GitHub Student Developer Pack & Cuenta en Azure](material/s2/practica2.md)
 
 ## Referencias
 
