@@ -6,7 +6,7 @@
 
  Material | Descripción
 --- | ---
-**Presentación** | [Diapositivas Sesión 2](material/s2/2-Arquitectura-de-la-nube-de-Azure.pdf)
+**Presentación** | [Diapositivas Sesión 2](./2-Arquitectura-de-la-nube-de-Azure.pdf)
 **Práctica 2** | [Introducción a Git y GitHub](./practica2.md)
 
 ## Referencias
