@@ -6,8 +6,8 @@
 
  Material | Descripción
 --- | ---
-**Presentación** | [Diapositivas Sesión 1](material/s1/1-Conceptos-de-la-nube.pdf)
-**Práctica 1** | [GitHub Student Developer Pack & Cuenta en Azure](material/s2/practica2.md)
+**Presentación** | [Diapositivas Sesión 1](./1-Conceptos-de-la-nube.pdf)
+**Práctica 1** | [GitHub Student Developer Pack & Cuenta en Azure](./practica1.md)
 
 ## Referencias
 
@@ -15,9 +15,3 @@
 - [Descripción de la informática en la nube](https://learn.microsoft.com/es-mx/training/modules/describe-cloud-compute/)
 - [Descripción de las ventajas de usar servicios en la nube](https://learn.microsoft.com/es-mx/training/modules/describe-benefits-use-cloud-services/)
 - [Descripción de los tipos de servicio en la nube](https://learn.microsoft.com/es-mx/training/modules/describe-cloud-service-types/)
-
----
-
- :arrow_left: | :house: | :arrow_right:
---- | --- | ---
-[Anterior sesión](../s1/README.md) | [Inicio](README.md) | [Siguiente sesión](../s2/README.md)

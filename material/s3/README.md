@@ -14,8 +14,3 @@
 
 **Módulos de aprendizaje de Microsoft Learn:**
 - [Descripción de los servicios de proceso y redes de Azure](https://learn.microsoft.com/es-mx/training/modules/describe-azure-compute-networking-services/)
----
-
- :arrow_left: | :house: | :arrow_right:
---- | --- | ---
-[Anterior sesión](../s2/README.md) | [Inicio](README.md) | [Siguiente sesión](../s4/README.md)
