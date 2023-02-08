@@ -45,7 +45,7 @@ Para acceder a la máquina virtual desde Windows, buscamos en nuestro computador
 
 ![image](https://user-images.githubusercontent.com/50784966/217614163-89f4a005-e764-4f0d-a2bd-7333abab41db.png)
 
-# Creación de una máquina virtual de Linux 
+## Creación de una máquina virtual de Linux 
 Desde Cloud Shell, ejecute el siguiente comando ``az vm create`` para crear una máquina virtual Linux:
 ```
 az vm create \
@@ -70,6 +70,9 @@ az vm extension set \
 ## Confirgurar el acceso de red
 En este momento, la máquina virtual de Linux no es accesible desde Internet. Creará un grupo de seguridad de red que lo cambiará y permitirá el acceso HTTP de entrada en el puerto 80.
 
+En este laboratorio se mostrará el ejemplo utiliznado el portal de Azure. Para el laboratorio utilizando la Cloud Shell, visite el módulo de Microsoft Learn [Configuración del acceso de red](https://learn.microsoft.com/es-mx/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access?wt.mc_id=studentamb_159817)
+
+<!--
 En este procedimiento se obtiene la dirección IP de la máquina virtual y se intenta acceder a la página principal del servidor web. Ejecute el siguiente comando az vm list-ip-addresses para obtener la dirección IP de la máquina virtual y almacenar el resultado como una variable de Bash:
 
 ```
@@ -177,3 +180,4 @@ Verá lo siguiente:
 ```
 <html><body><h2>Welcome to Azure! My name is my-vm.</h2></body></html>
 ```
+-->
