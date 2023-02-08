@@ -8,7 +8,7 @@
  Material | Descripción
 --- | ---
 **Presentación** | [Diapositivas Sesión 3]()
-**Práctica 3** | [Pendiente]()
+**Práctica 3** | [Máquinas virtuales](./practica3.md)
 
 ## Referencias
 
